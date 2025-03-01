@@ -5,3 +5,4 @@ streamlit==1.7.0
 streamlit_echarts==0.4.0
 protobuf==3.20.0
 altair==4.2.2
+click==8.1.7
