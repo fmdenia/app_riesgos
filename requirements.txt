@@ -3,3 +3,4 @@ pandas>=1.4.1,<2.0
 scikit_learn==1.6.1
 streamlit==1.7.0
 streamlit_echarts==0.4.0
+protobuf==3.20.0
